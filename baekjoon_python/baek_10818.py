@@ -1,0 +1,5 @@
+n=input()
+a=input().split()
+b=min(a)
+c=max(a)
+print("%s %s" %(b, c))
